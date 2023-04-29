@@ -1,0 +1,14 @@
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\MovieLand.Application.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\MovieLand.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\MovieLand.Application.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\MovieLand.Application.AssemblyInfo.cs
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\MovieLand.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\bin\Debug\net6.0\MovieLand.Application.deps.json
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\bin\Debug\net6.0\MovieLand.Application.runtimeconfig.json
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\bin\Debug\net6.0\MovieLand.Application.dll
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\bin\Debug\net6.0\MovieLand.Application.pdb
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\MovieLand.Application.dll
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\refint\MovieLand.Application.dll
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\MovieLand.Application.pdb
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\MovieLand.Application.genruntimeconfig.cache
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Application\obj\Debug\net6.0\ref\MovieLand.Application.dll

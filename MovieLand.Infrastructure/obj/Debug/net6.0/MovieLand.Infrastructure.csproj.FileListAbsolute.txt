@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\bin\Debug\net6.0\MovieLand.Infrastructure.deps.json
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\bin\Debug\net6.0\MovieLand.Infrastructure.runtimeconfig.json
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\bin\Debug\net6.0\MovieLand.Infrastructure.dll
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\bin\Debug\net6.0\MovieLand.Infrastructure.pdb
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\bin\Debug\net6.0\MovieLand.Application.dll
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\bin\Debug\net6.0\MovieLand.Application.pdb
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.csproj.CopyComplete
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.dll
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\refint\MovieLand.Infrastructure.dll
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.pdb
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\MovieLand.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Downloads\CatsTagram assignment\MovieLand.web\MovieLand.Infrastructure\obj\Debug\net6.0\ref\MovieLand.Infrastructure.dll
